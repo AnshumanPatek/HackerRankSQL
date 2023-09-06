@@ -1,1 +1,2 @@
 select city, state from station;
+// showing city and state
